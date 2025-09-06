@@ -50,53 +50,53 @@
 ### 🔌 Electricity Usage Tracking System  
 📍 C# desktop project inspired by prepaid electricity models  
 📊 Tracks daily, weekly, and monthly electricity usage  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/PRG281-Project.git)
 
 ---
 
 ### 🎓 Student Management System  
 📍 C# desktop app with full **CRUD functionality** for student records  
 🖥️ Built using .NET Framework with forms-based UI  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/PRG282.git)
 
 ---
 
 ### 📈 Student Performance Prediction System  
 📍 Machine Learning project in Jupyter Notebooks  
 🤖 Supervised + Unsupervised models predicting student grades  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/MLG382-Project1.git)
 
 ---
 
 ### 🔄 Customer Churn Prediction System  
 📍 ML classification models predicting customer retention  
 📊 Built collaboratively in Jupyter Notebooks  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/MLG382-CustomerChurn.git)
 
 ---
 
 ### 🌍 Server-side Community Portal Website  
 📍 Node.js + Express.js full-stack web application  
 ⚡ Dynamic server-rendered content for a local community portal  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/WPR381-Community-portal.git)
 
 ---
 
 ### 💙 BC Student Wellness Management Website  
 📍 Java full-stack web app with PostgreSQL backend  
 📊 Captures and manages student wellness data  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/NetbeansWeb.git)
 
 ---
 
 ### 🖥️ BC Student Wellness Management Desktop  
 📍 Java desktop app using Swing UI + Derby DB  
 ⚙️ Smooth navigation & CRUD support with ANT build framework  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/volkrum123/PRG381Milestone2.git)
 
 ---
 
 ## 📫 Let's Connect
 - 🌐 Portfolio: [Profile Website](https://volkrum123.github.io/ProfileWebsite/)  
 - 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 📧 Email: *(Add your email here)*  
+- 📧 Email: *(stiaanmegit2@gmail.com)*  
