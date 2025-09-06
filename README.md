@@ -55,55 +55,74 @@
 - Committed to **continuous learning** and **self-improvement**  
 
 ---
-
 ## 🚧 Projects
 
 ### 🔌 Electricity Usage Tracking System  
-📍 C# desktop project inspired by prepaid electricity models  
-📊 Tracks daily, weekly, and monthly electricity usage  
-🔗 [GitHub Repository](https://github.com/volkrum123/PRG281-Project.git)
+📊 C# desktop project inspired by prepaid electricity models. Tracks daily, weekly, and monthly electricity usage.  
+🔗 [GitHub Repository](https://github.com/volkrum123/PRG281-Project.git)  
+**Tech Used:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
 ### 🎓 Student Management System  
-📍 C# desktop app with full **CRUD functionality** for student records  
-🖥️ Built using .NET Framework with forms-based UI  
-🔗 [GitHub Repository](https://github.com/volkrum123/PRG282.git)
+📊 C# desktop app with full **CRUD functionality** for student records.  
+🔗 [GitHub Repository](https://github.com/volkrum123/PRG282.git)  
+**Tech Used:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
 ### 📈 Student Performance Prediction System  
-📍 Machine Learning project in Jupyter Notebooks  
-🤖 Supervised + Unsupervised models predicting student grades  
-🔗 [GitHub Repository](https://github.com/volkrum123/MLG382-Project1.git)
+🤖 ML project predicting student grades with supervised & unsupervised models.  
+🔗 [GitHub Repository](https://github.com/volkrum123/MLG382-Project1.git)  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
 ### 🔄 Customer Churn Prediction System  
-📍 ML classification models predicting customer retention  
-📊 Built collaboratively in Jupyter Notebooks  
-🔗 [GitHub Repository](https://github.com/volkrum123/MLG382-CustomerChurn.git)
+🤖 Classification models predicting customer retention (leave/stay).  
+🔗 [GitHub Repository](https://github.com/volkrum123/MLG382-CustomerChurn.git)  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
 ### 🌍 Server-side Community Portal Website  
-📍 Node.js + Express.js full-stack web application  
-⚡ Dynamic server-rendered content for a local community portal  
-🔗 [GitHub Repository](https://github.com/volkrum123/WPR381-Community-portal.git)
+🌐 Node.js + Express.js web app serving dynamic content for a community portal.  
+🔗 [GitHub Repository](https://github.com/volkrum123/WPR381-Community-portal.git)  
+**Tech Used:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ---
 
 ### 💙 BC Student Wellness Management Website  
-📍 Java full-stack web app with PostgreSQL backend  
-📊 Captures and manages student wellness data  
-🔗 [GitHub Repository](https://github.com/volkrum123/NetbeansWeb.git)
+🌐 Java full-stack web app with PostgreSQL backend to manage student wellness data.  
+🔗 [GitHub Repository](https://github.com/volkrum123/NetbeansWeb.git)  
+**Tech Used:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
 ### 🖥️ BC Student Wellness Management Desktop  
-📍 Java desktop app using Swing UI + Derby DB  
-⚙️ Smooth navigation & CRUD support with ANT build framework  
-🔗 [GitHub Repository](https://github.com/volkrum123/PRG381Milestone2.git)
+🖥️ Java Swing desktop app with Derby DB + ANT build framework.  
+🔗 [GitHub Repository](https://github.com/volkrum123/PRG381Milestone2.git)  
+**Tech Used:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Apache Derby](https://img.shields.io/badge/Apache%20Derby-F80000?style=flat-square&logo=apache&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 ## 📊 GitHub Stats
