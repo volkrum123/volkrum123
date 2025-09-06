@@ -113,11 +113,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=volkrum123&theme=tokyonight" alt="GitHub streak" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkrum123&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-
 ## 📫 Let's Connect
 - 🌐 Portfolio: [Profile Website](https://volkrum123.github.io/ProfileWebsite/)  
 - 💼 LinkedIn: *(Add your LinkedIn link here)*  
