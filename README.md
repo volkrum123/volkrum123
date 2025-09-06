@@ -136,5 +136,5 @@
 
 ## 📫 Let's Connect
 - 🌐 Portfolio: [Profile Website](https://volkrum123.github.io/ProfileWebsite/)  
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+- 💼 LinkedIn: *(www.linkedin.com/in/stiaan-megit-999a0a331)*  
 - 📧 Email: *(stiaanmegit2@gmail.com)*  
